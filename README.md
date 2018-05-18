@@ -29,5 +29,5 @@ Want to support? Contact: przemek@sobstel.org
   nor a part of this repository.
 * Would be good to use Riak Search as a search engine
   (for AP -> Availability + Partition Tolerance)
-* Earlier versions were built with Riot and Hyperapp.
+* Earlier versions were built with Preact, Riot and Hyperapp.
   See [branches](https://github.com/sobstel/golazon/branches) for details.
